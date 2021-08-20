@@ -9,7 +9,7 @@
     tools:context=".MainActivity">
 
 
-    <ImageView
+    <ImageViewdeerf
         android:layout_width="152dp"
         android:layout_height="131dp"
         android:src="@drawable/oip"/>
